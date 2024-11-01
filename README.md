@@ -21,6 +21,6 @@ UI
 ![alt text](/imgdump/image.png)
 
 
-![alt text](image.png)
+![alt text](/imgdump/image2.png)
 
-![alt text](image.png)
+![alt text](/imgdump/image3.png)
