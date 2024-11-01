@@ -14,3 +14,13 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+UI
+
+![alt text](/imgdump/image.png)
+
+
+![alt text](image.png)
+
+![alt text](image.png)
