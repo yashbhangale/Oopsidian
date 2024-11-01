@@ -12,4 +12,4 @@ RUN npm run dev
 
 EXPOSE 3000
 
-CMD["npm","run","dev"]
+CMD ["npm","run","dev"]
